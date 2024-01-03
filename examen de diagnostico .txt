@@ -1,0 +1,26 @@
+1.- Realizar el codigo en tu lenguaje de preferencia de una estructura 
+orientada a objetos (min.4 clases)
+
+R.-
+
+2.- Realiza un ejercicio de logica de tu preferencia.
+
+R.-https://github.com/Lukitis/examen-diagnostico
+
+3.-Que entiendes por base de datos?
+
+R.-Una recopilación de datos que luego se almacena.
+
+4.-Que entiendes por SQL?
+
+R.-Que es un lenguaje de programación que sirve para almacenar y procesar informacion.
+
+5.-Que es exel para ti
+
+R.-Es un programa donde nos dan una hoja de cálculo que nos permite manipular datos 
+numéricos y de texto.
+
+6.-Que es un framework y cuales utilizaste?
+
+R.-Un framework es un conjunto de herramientas y librerías que se utilizan para 
+desarrollar aplicaciones de manera facil y eficiente. Utilice Bootstrap y React js.
